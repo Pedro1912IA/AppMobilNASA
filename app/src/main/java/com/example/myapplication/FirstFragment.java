@@ -53,7 +53,10 @@ public class FirstFragment extends Fragment {
             "Una vista parcial del planeta Júpiter, revelando sus características bandas de nubes y tormentas.",
             "Una nebulosa vibrante con nubes de gas y polvo en tonos rojos y púrpuras, y estrellas brillantes.",
             "Una vista nocturna de la Tierra desde el espacio, con las luces de las ciudades brillando.",
-            "Una imagen del planeta Venus, mostrando su superficie rocosa y de tonos ocres."
+            "Una imagen del planeta Venus, mostrando su superficie rocosa y de tonos ocres.",
+            "La Nebulosa Cabeza de Caballo, una oscura nube de polvo y gas contra un fondo de estrellas.",
+            "Una imagen del planeta Urano, mostrando su superficie lisa y de color azul pálido.",
+            "Un eclipse solar total, con la Luna cubriendo el Sol y revelando su brillante corona.",
     };
 
     private Random random = new Random();
