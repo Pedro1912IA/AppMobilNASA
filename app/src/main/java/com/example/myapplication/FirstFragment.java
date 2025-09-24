@@ -34,13 +34,13 @@ public class FirstFragment extends Fragment {
     };
 
     private final String[] nasaImageDescriptions = {
-            "The Hubble Space Telescope captured this image of the spiral galaxy NGC 1300.",
-            "The Pillars of Creation in the Eagle Nebula, taken by the James Webb Space Telescope.",
-            "Mars surface captured by the Perseverance rover.",
-            "The International Space Station orbiting Earth.",
-            "Saturn and its rings, captured by the Cassini spacecraft.",
-            "This could be a description for imgnasa6.",
-            "This could be a description for imgnasa7."
+            "Neptuno: Una vista del planeta Neptuno, mostrando su distintivo color azul y algunas bandas de nubes claras.",
+            "Galaxia Espiral M51 (Whirlpool Galaxy): Una impresionante imagen de una galaxia espiral con brazos bien definidos y un núcleo brillante, destacando regiones de formación estelar en tonos rojizos.",
+            "Galaxia de Andrómeda (M31): Una vista expansiva de la galaxia de Andrómeda, nuestra vecina galáctica, mostrando su forma espiral y sus brillantes estrellas.",
+            "Nebulosa de la Burbuja (NGC 7635): Una nebulosa espectacular que parece una burbuja iridiscente, formada por el viento de una estrella masiva en su interior.",
+            "Tierra: Una vista global del planeta Tierra desde el espacio, mostrando continentes, océanos y patrones de nubes.",
+            "Región de formación estelar en la Gran Nube de Magallanes: Una vibrante región de estrellas jóvenes y nebulosas de emisión en la Gran Nube de Magallanes, una galaxia enana cercana.",
+            "Nebulosa del Cangrejo (M1): Los restos de una supernova, mostrando una compleja red de filamentos de gas y polvo, con un centro brillante."
     };
 
     private Random random = new Random();

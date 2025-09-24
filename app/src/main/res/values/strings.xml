@@ -2,11 +2,13 @@
     <string name="app_name">MyApplication</string>
 
     <!-- Textos del fragment -->
-    <string name="description1">The Hubble Space Telescope captured this image of the spiral galaxy NGC 1300.</string>
-    <string name="description2">The Pillars of Creation in the Eagle Nebula, taken by the James Webb Space Telescope.</string>
-    <string name="description3">Mars surface captured by the Perseverance rover.</string>
-    <string name="description4">The International Space Station orbiting Earth.</string>
-    <string name="description5">Saturn and its rings, captured by the Cassini spacecraft.</string>
+    <string name="description1">Neptuno: Una vista del planeta Neptuno, mostrando su distintivo color azul y algunas bandas de nubes claras.</string>
+    <string name="description2">Galaxia Espiral M51 (Whirlpool Galaxy): Una impresionante imagen de una galaxia espiral con brazos bien definidos y un núcleo brillante, destacando regiones de formación estelar en tonos rojizos.</string>
+    <string name="description3">Galaxia de Andrómeda (M31): Una vista expansiva de la galaxia de Andrómeda, nuestra vecina galáctica, mostrando su forma espiral y sus brillantes estrellas.</string>
+    <string name="description4">Nebulosa de la Burbuja (NGC 7635): Una nebulosa espectacular que parece una burbuja iridiscente, formada por el viento de una estrella masiva en su interior.</string>
+    <string name="description5">Tierra: Una vista global del planeta Tierra desde el espacio, mostrando continentes, océanos y patrones de nubes.</string>
+    <string name="description6">Región de formación estelar en la Gran Nube de Magallanes: Una vibrante región de estrellas jóvenes y nebulosas de emisión en la Gran Nube de Magallanes, una galaxia enana cercana.</string>
+    <string name="description7">Nebulosa del Cangrejo (M1): Los restos de una supernova, mostrando una compleja red de filamentos de gas y polvo, con un centro brillante.</string>
 
     <string name="app_title">Mi Aplicación</string>
     <string name="nasa_image_description">Imagen de la NASA</string>
