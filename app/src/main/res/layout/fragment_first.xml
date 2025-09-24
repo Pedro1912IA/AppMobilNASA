@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="@string/app_title"
+        android:text="App RandomNASA"
         android:textColor="@color/colorPrimary"
         android:textSize="@dimen/title_text_size"
         android:textStyle="bold"
