@@ -45,7 +45,12 @@ public class FirstFragment extends Fragment {
             "Nebulosa de la Burbuja (NGC 7635): Una nebulosa espectacular que parece una burbuja iridiscente, formada por el viento de una estrella masiva en su interior.",
             "Tierra: Una vista global del planeta Tierra desde el espacio, mostrando continentes, océanos y patrones de nubes.",
             "Región de formación estelar en la Gran Nube de Magallanes: Una vibrante región de estrellas jóvenes y nebulosas de emisión en la Gran Nube de Magallanes, una galaxia enana cercana.",
-            "Nebulosa del Cangrejo (M1): Los restos de una supernova, mostrando una compleja red de filamentos de gas y polvo, con un centro brillante."
+            "Nebulosa del Cangrejo (M1): Los restos de una supernova, mostrando una compleja red de filamentos de gas y polvo, con un centro brillante.",
+            "La Luna en un cielo oscuro sobre la curvatura de la Tierra, con nubes blancas y una atmósfera azul.",
+            "Una vista parcial del planeta Júpiter, revelando sus características bandas de nubes y tormentas.",
+            "Una nebulosa vibrante con nubes de gas y polvo en tonos rojos y púrpuras, y estrellas brillantes.",
+            "Una vista nocturna de la Tierra desde el espacio, con las luces de las ciudades brillando.",
+            "Una imagen del planeta Venus, mostrando su superficie rocosa y de tonos ocres."
     };
 
     private Random random = new Random();
