@@ -36,6 +36,9 @@ public class FirstFragment extends Fragment {
             R.drawable.imgnasa10,
             R.drawable.imgnasa11,
             R.drawable.imgnasa12,
+            R.drawable.imgnasa13,
+            R.drawable.imgnasa14,
+            R.drawable.imgnasa15,
     };
 
     private final String[] nasaImageDescriptions = {
